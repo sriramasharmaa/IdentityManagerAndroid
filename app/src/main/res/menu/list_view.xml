@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mmodal.fluencyflex.gui.activities.PatientSearchFragment">
+    <item android:title="Add" android:id="@+id/list_item_add" app:showAsAction="always">
+        <menu>
+            <item android:title="Website"></item>
+            <item android:title="Car details"></item>
+            <item android:title="Bike details"></item>
+            <item android:title="House Details"></item>
+            <item android:title="Bank Details"></item>
+            <item android:title="Bike Details"></item>
+
+        </menu>
+    </item>
+    <item android:id="@+id/action_search"
+        android:title="Search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always"
+        android:iconifiedByDefault="true"
+        android:actionViewClass="android.widget.SearchView" />
+
+</menu>

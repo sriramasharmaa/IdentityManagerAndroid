@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-0e1b88bd9f3f15156fa1ae5d52683e74c5fe6b52.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b3a15df71d1a404b129bcf221b38208baa5b6833.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-11603f99c3a4ca23082ac226e91f5a555a13da00.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-406d0d4c95625c7109b2b7753646d6fd01221c66.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-97a1e88559b9bb29903ba801930c61733400de01.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-2567179983b20ff53c8a05bcba29487765c99439.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-1f9ba59e1937274b1a48dc62e45aa1facd1b118f.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-bbb51e4cda35ff7709f4b117af3672fa494d1a6d.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-88e75c62067541f74a0c9fd65ed2032f5aed74e9.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-bfa28bca0aa63021ab383688017c2bd1d69275be.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-d1de1b8d4fd0c37572e256cffa2de69a9e3b6e0e.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-74095a256c5f7426f3385b90343b5990629124f4.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-2d24efaa996b4058d9b2d4eac1c91723976a8494.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-62a4a2cfff08cfd043514c4aad8c425b6292b42f.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-7980cd266800774aeac44d92e76e604640682962.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-f7f7a6cfaddbe05e31c88cb015f3978c1160c070.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-228b35674a511708a11b692339667c95251c58fd.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-743f96d5a4ffa06ced6927dbc612016befdc8d2d.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-b64de744d4c577c547812f3e009de7e397674c37.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-b1319792e6ac0ab1530117be7d76bec5422c49ce.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-43bca8996f19de5ec631dc09d95bfafed7a91204.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-5a00de74e42fc8cade12af0a8de9480e3e6d56e9.jar" />
+    </item>
+    <item
+        jar="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/kameshwarsheoran/AndroidStudioProjects/IdentityManager/app/build/intermediates/pre-dexed/debug/classes-024f9096c045724837425fc4e431a60a27637a43.jar" />
+    </item>
+
+</items>
