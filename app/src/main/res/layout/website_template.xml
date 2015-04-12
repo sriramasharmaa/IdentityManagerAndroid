@@ -8,6 +8,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/identityName"
+        android:hint="@string/hint_displayName"
         android:layout_gravity="center_horizontal" />
 
     <EditText
@@ -16,15 +17,18 @@
         android:inputType="textEmailAddress"
         android:ems="10"
         android:id="@+id/identityURI"
+        android:hint="@string/hint_uri"
         android:layout_gravity="center_horizontal" />
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
-        android:text="textEmailAddress"
+        android:text=""
+
         android:ems="10"
         android:id="@+id/identityUserName"
+        android:hint="@string/hint_username"
         android:layout_gravity="center_horizontal" />
 
     <EditText
@@ -33,6 +37,7 @@
         android:inputType="textPassword"
         android:ems="10"
         android:id="@+id/identityPasswd"
+        android:hint="@string/hint_passwd"
         android:layout_gravity="center_horizontal" />
 
     <EditText
@@ -40,6 +45,7 @@
         android:layout_height="wrap_content"
         android:inputType="phone"
         android:ems="10"
+        android:hint="@string/hint_primaryContact"
         android:id="@+id/primaryContact" />
 
     <EditText
@@ -48,6 +54,7 @@
         android:inputType="textMultiLine"
         android:ems="10"
         android:id="@+id/notes"
+        android:hint="@string/hint_notes"
         android:layout_weight="0.90" />
 
 

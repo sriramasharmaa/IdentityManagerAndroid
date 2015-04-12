@@ -155,10 +155,11 @@ public class IdentityListFragment extends Fragment implements AbsListView.OnItem
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         FragmentManager fragmentManager = getActivity().getSupportFragmentManager();
-
-        fragmentManager.beginTransaction()
-                .replace(R.id.container, new IdentityEditFragment())
-                .commit();
+        if(item.getItemId() == R.id.action_add_website) {
+            fragmentManager.beginTransaction()
+                    .replace(R.id.container, new IdentityEditFragment())
+                    .commit();
+        }
         return false;
     }
     @Override

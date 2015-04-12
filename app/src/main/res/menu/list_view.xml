@@ -4,7 +4,7 @@
     tools:context="com.mmodal.fluencyflex.gui.activities.PatientSearchFragment">
     <item android:title="Add" android:id="@+id/list_item_add" app:showAsAction="always">
         <menu>
-            <item android:title="Website"></item>
+            <item android:title="Website" android:id="@+id/action_add_website"></item>
             <item android:title="Car details"></item>
             <item android:title="Bike details"></item>
             <item android:title="House Details"></item>
