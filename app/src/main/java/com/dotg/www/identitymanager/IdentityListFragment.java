@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -21,7 +20,8 @@ import android.support.v4.view.MenuItemCompat;
 import android.widget.SearchView.OnQueryTextListener;
 import android.widget.SearchView;
 
-import com.dotg.www.identitymanager.dummy.DummyContent;
+import com.dotg.www.identitymanager.Model.Beans.IdentityListBean;
+
 
 /**
  * A fragment representing a list of Items.
@@ -54,7 +54,7 @@ public class IdentityListFragment extends Fragment implements AbsListView.OnItem
      * The Adapter which will be used to populate the ListView/GridView with
      * Views.
      */
-    private ArrayAdapter<IdentityListTemplate> mAdapter;
+    private ArrayAdapter<IdentityListBean> mAdapter;
 
     // TODO: Rename and change types of parameters
     public static IdentityListFragment newInstance(String param1, String param2) {
@@ -81,16 +81,16 @@ public class IdentityListFragment extends Fragment implements AbsListView.OnItem
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
         }
-        IdentityListTemplate[] items = {
-                new IdentityListTemplate(100, "Milk"),
-                new IdentityListTemplate(200, "Butter"),
-                new IdentityListTemplate(300, "Yogurt"),
-                new IdentityListTemplate(400, "Toothpaste"),
-                new IdentityListTemplate(500, "Ice Cream"),
+        IdentityListBean[] items = {
+                new IdentityListBean(100, "Milk"),
+                new IdentityListBean(200, "Butter"),
+                new IdentityListBean(300, "Yogurt"),
+                new IdentityListBean(400, "Toothpaste"),
+                new IdentityListBean(500, "Ice Cream"),
         };
 
         // TODO: Change Adapter to display your content
-        mAdapter = new ArrayAdapter<IdentityListTemplate>(getActivity(),
+        mAdapter = new ArrayAdapter<IdentityListBean>(getActivity(),
                 android.R.layout.simple_list_item_1, items);
         setHasOptionsMenu(true);
 
@@ -157,20 +157,16 @@ public class IdentityListFragment extends Fragment implements AbsListView.OnItem
         FragmentManager fragmentManager = getActivity().getSupportFragmentManager();
         if(item.getItemId() == R.id.action_add_website) {
             fragmentManager.beginTransaction()
-                    .replace(R.id.container, new IdentityEditFragment())
+                    .replace(R.id.container, new IdentityAddFragment())
                     .commit();
         }
         return false;
     }
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-        if (null != mListener) {
-            // Notify the active callbacks interface (the activity, if the
-            // fragment is attached to one) that an item has been selected.
-            mListener.onFragmentInteraction(DummyContent.ITEMS.get(position).id);
-        }
+
         System.out.println("You pressed: "+id);
-        IdentityListTemplate t = (IdentityListTemplate) mListView.getItemAtPosition(position);
+        IdentityListBean t = (IdentityListBean) mListView.getItemAtPosition(position);
         System.out.println(t.getId());
 
     }

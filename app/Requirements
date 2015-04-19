@@ -1,0 +1,46 @@
+Identity
+=========================================================
+Identity is anything which you want to remember immediately and pull the information about those.
+Identity is about you or about your possession.
+It can be your website details like facebook,google etc
+or it can be your bank details or insurance etc.
+
+It may have an expiry
+Reminders
+=========================================================
+Any type of alerts or intimation for the identity.
+
+Backup
+=========================================================
+Your data is stored in a flat file.
+The information inside the file is encrypted using AES256. Your password is the key for encryption.
+Stronger the password, the file encrypted is safe.
+We intimate you to change the password based on the security policy.
+
+Storage
+=========================================================
+The data file has no size limit
+The data is stored in the device as per security policy
+
+Security policy
+=========================================================
+User can set their own policy. The details of which are
+1. data Storage path(by default in internal storage)
+2. force renewal of password(default yes)
+3. back up data file in cloud(default no)
+4. security questions for password recovery
+
+App mirgraton
+=========================================================
+Install the application in any other device.
+Just copy the data file and put in the default path of the application
+
+Privacy Policy
+=========================================================
+We do not store your personal data in any external website.
+Any information will be transfered from the device with your permission
+We are not responsible for any data loss
+This application is free
+Any crash of application or any other feedback can be mailed to us.
+
+
